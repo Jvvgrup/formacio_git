@@ -11,5 +11,6 @@ void can(void)
 {
 
 	//posa codi aqui
+	//segon commit
 	return 0;
 }
