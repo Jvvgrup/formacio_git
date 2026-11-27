@@ -6,3 +6,10 @@ int main(void)
 	
 	return 0;
 }
+
+void can(void)
+{
+
+	//posa codi aqui
+	return 0;
+}
